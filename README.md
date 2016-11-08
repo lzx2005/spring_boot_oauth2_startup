@@ -4,7 +4,7 @@
 
 Clone项目
 ```bash
-git clone http://gitlab.yscredit.com/lizhengxian/crawler_to_kafka_url_api.git
+git clone https://github.com/lzx2005/spring_boot_oauth2_startup.git
 ```
 
 使用IDEA打开项目
